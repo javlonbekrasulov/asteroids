@@ -16,8 +16,8 @@ def main():
 
     updatable = pygame.sprite.Group()
     drawable = pygame.sprite.Group()
-    containers = pygame.sprite.Group()
-    Shot.containers = (containers, updatable, drawable)
+    shots = pygame.sprite.Group()
+    Shot.containers = (shots, updatable, drawable)
     Player.containers = (updatable, drawable)
     player = Player(x=SCREEN_WIDTH/2, y=SCREEN_HEIGHT/2)
 
