@@ -1,2 +1,17 @@
 game_state.jsonl
 game_events.jsonl
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Python compiled files
+*.pyc
+
+# Local Python version manager
+.python-version
+
+# Logs
+*.log
