@@ -6,7 +6,7 @@ A classic Asteroids arcade game built with Python and Pygame.
  
 ## Demo
  
-> ![Gameplay](assets/asteroids-gameplay.gif)
+![Gameplay](assets/asteroids-gameplay.gif)
  
 ---
  
