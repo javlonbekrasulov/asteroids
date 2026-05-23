@@ -6,7 +6,7 @@ A classic Asteroids arcade game built with Python and Pygame.
  
 ## Demo
  
-> ![Gameplay](assets/asteroids-gameplay.mp4)
+> ![Gameplay](assets/asteroids-gameplay.gif)
  
 ---
  
@@ -23,7 +23,7 @@ A classic Asteroids arcade game built with Python and Pygame.
  
 | Key | Action |
 |-----|--------|
-| `W` | Thrust forward |
+| `W` | Move forward |
 | `A` | Rotate left |
 | `D` | Rotate right |
 | `Spacebar` | Shoot |
@@ -45,8 +45,7 @@ A classic Asteroids arcade game built with Python and Pygame.
    pip install pygame
    ```
  
-3. Run the game: 
-it is recommended to use [uv](https://github.com/astral-sh/uv):
-```bash
-uv run main.py
-```
+3. Run the game with [uv](https://github.com/astral-sh/uv):
+   ```bash
+   uv run main.py
+   ```
