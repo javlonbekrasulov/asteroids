@@ -31,21 +31,20 @@ A classic Asteroids arcade game built with Python and Pygame.
 ---
  
 ## Installation
- 
-**Prerequisites:** Python 3.13+
- 
-1. Clone the repository:
-   ```bash
+
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) if you don't have it.
+
+2. Clone the repository:
+```bash
    git clone https://github.com/javlonbekrasulov/asteroids.git
    cd asteroids
-   ```
- 
-2. Install dependencies:
-   ```bash
-   pip install pygame
-   ```
- 
-3. Run the game with [uv](https://github.com/astral-sh/uv):
-   ```bash
+```
+
+3. Run the game:
+```bash
    uv run main.py
-   ```
+```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
