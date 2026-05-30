@@ -2,13 +2,11 @@
  
 A classic Asteroids arcade game built with Python and Pygame.
  
----
  
 ## Demo
  
 ![Gameplay](assets/asteroids-gameplay.gif)
  
----
  
 ## Features
  
@@ -17,7 +15,6 @@ A classic Asteroids arcade game built with Python and Pygame.
 - Shooting cooldown mechanic
 - Game over when an asteroid collides with the player
 - Randomized asteroid field generation
----
  
 ## Controls
  
@@ -28,7 +25,6 @@ A classic Asteroids arcade game built with Python and Pygame.
 | `D` | Rotate right |
 | `Spacebar` | Shoot |
  
----
  
 ## Installation
 
